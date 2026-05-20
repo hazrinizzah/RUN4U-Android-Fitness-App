@@ -23,6 +23,7 @@ The app aims to solve common fitness challenges such as lack of motivation, diff
 - 📹 **Workout Videos** categorized by muscle groups (Legs, Abs, Chest, Back)
 - 🎵 **Personalized Music Playlist** (add, play, delete local audio files)
 - 👥 **Team Workout** with ZEGOCLOUD video conferencing
+- 💾 **Local data persistence** using Room Database
 
 ---
 
@@ -44,9 +45,65 @@ The app aims to solve common fitness challenges such as lack of motivation, diff
 
 ---
 
-## 📸 Screenshots
+## 📱 App Screenshots
 
-> *Add screenshots here if available (e.g., `screenshots/login.png`, `screenshots/home.png`)*
+### 🔐 Authentication
+![Login Screen](https://github.com/hazrinizzah/RUN4U-Android-Fitness-App/blob/6957c28582d3e177cb6fdc3126533efe8016ec49/screenshots/login.jpg?raw=true)
+
+### 🏠 Main Menu
+![Main Menu](https://github.com/hazrinizzah/RUN4U-Android-Fitness-App/blob/6957c28582d3e177cb6fdc3126533efe8016ec49/screenshots/mainmenu.jpg?raw=true)
+
+### 📊 BMI Calculator
+![BMI Calculator](https://github.com/hazrinizzah/RUN4U-Android-Fitness-App/blob/6957c28582d3e177cb6fdc3126533efe8016ec49/screenshots/bmicalculator.jpg?raw=true)
+![BMI History](https://github.com/hazrinizzah/RUN4U-Android-Fitness-App/blob/6957c28582d3e177cb6fdc3126533efe8016ec49/screenshots/bmihistory.jpg?raw=true)
+
+### 📊 Calorie Tracker
+![Calories Calculator](https://github.com/hazrinizzah/RUN4U-Android-Fitness-App/blob/6957c28582d3e177cb6fdc3126533efe8016ec49/screenshots/caloriescalculator.jpg?raw=true)
+![Food Category Calorie Calculator](https://github.com/hazrinizzah/RUN4U-Android-Fitness-App/blob/6957c28582d3e177cb6fdc3126533efe8016ec49/screenshots/foodcategorycaloriecalculator.jpg?raw=true)
+
+### 🥗 Diet Planner
+![Diet Planner](https://github.com/hazrinizzah/RUN4U-Android-Fitness-App/blob/6957c28582d3e177cb6fdc3126533efe8016ec49/screenshots/dietplanner.jpg?raw=true)
+
+### 👟 Step Tracker
+![Step Tracker](https://github.com/hazrinizzah/RUN4U-Android-Fitness-App/blob/6957c28582d3e177cb6fdc3126533efe8016ec49/screenshots/steptracker.jpg?raw=true)
+
+### 💪 Workout Videos
+![Workout Video](https://github.com/hazrinizzah/RUN4U-Android-Fitness-App/blob/6957c28582d3e177cb6fdc3126533efe8016ec49/screenshots/workoutvideojpg.jpg?raw=true)
+![Workout Video 2](https://github.com/hazrinizzah/RUN4U-Android-Fitness-App/blob/6957c28582d3e177cb6fdc3126533efe8016ec49/screenshots/workoutvideo2.jpg?raw=true)
+
+### 🎵 Music Playlist
+![Music Playlist](https://github.com/hazrinizzah/RUN4U-Android-Fitness-App/blob/6957c28582d3e177cb6fdc3126533efe8016ec49/screenshots/musicplaylist.jpg?raw=true)
+
+### 👥 Team Workout
+![Team Workout](https://github.com/hazrinizzah/RUN4U-Android-Fitness-App/blob/6957c28582d3e177cb6fdc3126533efe8016ec49/screenshots/teamworkout.jpg?raw=true)
+
+---
+
+## 📸 Screenshot Gallery
+
+<div align="center">
+  <h3>Authentication & Main Menu</h3>
+  <img src="https://github.com/hazrinizzah/RUN4U-Android-Fitness-App/blob/6957c28582d3e177cb6fdc3126533efe8016ec49/screenshots/login.jpg?raw=true" width="200" alt="Login"/>
+  <img src="https://github.com/hazrinizzah/RUN4U-Android-Fitness-App/blob/6957c28582d3e177cb6fdc3126533efe8016ec49/screenshots/mainmenu.jpg?raw=true" width="200" alt="Main Menu"/>
+  
+  <h3>BMI & Calorie Tracking</h3>
+  <img src="https://github.com/hazrinizzah/RUN4U-Android-Fitness-App/blob/6957c28582d3e177cb6fdc3126533efe8016ec49/screenshots/bmicalculator.jpg?raw=true" width="200" alt="BMI Calculator"/>
+  <img src="https://github.com/hazrinizzah/RUN4U-Android-Fitness-App/blob/6957c28582d3e177cb6fdc3126533efe8016ec49/screenshots/bmihistory.jpg?raw=true" width="200" alt="BMI History"/>
+  <img src="https://github.com/hazrinizzah/RUN4U-Android-Fitness-App/blob/6957c28582d3e177cb6fdc3126533efe8016ec49/screenshots/caloriescalculator.jpg?raw=true" width="200" alt="Calories Calculator"/>
+  <img src="https://github.com/hazrinizzah/RUN4U-Android-Fitness-App/blob/6957c28582d3e177cb6fdc3126533efe8016ec49/screenshots/foodcategorycaloriecalculator.jpg?raw=true" width="200" alt="Food Category Calorie"/>
+  
+  <h3>Diet & Step Tracking</h3>
+  <img src="https://github.com/hazrinizzah/RUN4U-Android-Fitness-App/blob/6957c28582d3e177cb6fdc3126533efe8016ec49/screenshots/dietplanner.jpg?raw=true" width="200" alt="Diet Planner"/>
+  <img src="https://github.com/hazrinizzah/RUN4U-Android-Fitness-App/blob/6957c28582d3e177cb6fdc3126533efe8016ec49/screenshots/steptracker.jpg?raw=true" width="200" alt="Step Tracker"/>
+  
+  <h3>Workout Videos</h3>
+  <img src="https://github.com/hazrinizzah/RUN4U-Android-Fitness-App/blob/6957c28582d3e177cb6fdc3126533efe8016ec49/screenshots/workoutvideojpg.jpg?raw=true" width="200" alt="Workout Video"/>
+  <img src="https://github.com/hazrinizzah/RUN4U-Android-Fitness-App/blob/6957c28582d3e177cb6fdc3126533efe8016ec49/screenshots/workoutvideo2.jpg?raw=true" width="200" alt="Workout Video 2"/>
+  
+  <h3>Music & Team Workout</h3>
+  <img src="https://github.com/hazrinizzah/RUN4U-Android-Fitness-App/blob/6957c28582d3e177cb6fdc3126533efe8016ec49/screenshots/musicplaylist.jpg?raw=true" width="200" alt="Music Playlist"/>
+  <img src="https://github.com/hazrinizzah/RUN4U-Android-Fitness-App/blob/6957c28582d3e177cb6fdc3126533efe8016ec49/screenshots/teamworkout.jpg?raw=true" width="200" alt="Team Workout"/>
+</div>
 
 ---
 
@@ -54,4 +111,4 @@ The app aims to solve common fitness challenges such as lack of motivation, diff
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/RUN4U.git
+   git clone https://github.com/hazrinizzah/RUN4U-Android-Fitness-App.git
