@@ -107,6 +107,11 @@ The app aims to solve common fitness challenges such as lack of motivation, diff
 
 ## 🚀 How to Run the Project
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/hazrinizzah/RUN4U-Android-Fitness-App.git
+### Prerequisites
+- Android Studio (Arctic Fox or newer)
+- Android device or emulator (API 24+)
+- Internet connection for first-time setup
+
+### Step 1: Clone the repository
+```bash
+git clone https://github.com/hazrinizzah/RUN4U-Android-Fitness-App.git
