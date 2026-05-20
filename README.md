@@ -73,7 +73,7 @@ The app aims to solve common fitness challenges such as lack of motivation, diff
 ![Music Playlist](https://github.com/hazrinizzah/RUN4U-Android-Fitness-App/blob/6957c28582d3e177cb6fdc3126533efe8016ec49/screenshots/musicplaylist.jpg?raw=true)
 
 ### 👥 Team Workout
-![Team Workout](https://github.com/hazrinizzah/RUN4U-Android-Fitness-App/blob/6957c28582d3e177cb6fdc3126533efe8016ec49/screenshots/teamworkout.jpg?raw=true)
+![Team Workout](https://github.com/hazrinizzah/RUN4U-Android-Fitness-App/blob/cc4bde7554cab5d846a4d8bdc94b89fe699532ae/screenshots/teamworkout2.jpg?raw=true)
 
 ---
 
@@ -100,7 +100,8 @@ The app aims to solve common fitness challenges such as lack of motivation, diff
   
   <h3>Music & Team Workout</h3>
   <img src="https://github.com/hazrinizzah/RUN4U-Android-Fitness-App/blob/6957c28582d3e177cb6fdc3126533efe8016ec49/screenshots/musicplaylist.jpg?raw=true" width="200" alt="Music Playlist"/>
-  <img src="https://github.com/hazrinizzah/RUN4U-Android-Fitness-App/blob/6957c28582d3e177cb6fdc3126533efe8016ec49/screenshots/teamworkout.jpg?raw=true" width="200" alt="Team Workout"/>
+  <img src="https://github.com/hazrinizzah/RUN4U-Android-Fitness-App/blob/cc4bde7554cab5d846a4d8bdc94b89fe699532ae/screenshots/teamworkout2.jpg?raw=true" width="200" alt="Team Workout"/>
+
 </div>
 
 ---
