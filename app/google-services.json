@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "443640434142",
+    "project_id": "run4u-3274f",
+    "storage_bucket": "run4u-3274f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443640434142:android:af5b760bee42252289e14f",
+        "android_client_info": {
+          "package_name": "com.example.run4u"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRnNWRVyWTogZDDtqt2-xeY-mcy0bMdsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
